@@ -1,0 +1,9 @@
+{
+  "activ": false,
+  "interval_ore": 1.0,
+  "model": "gemma2:9b",
+  "nr_scene": 13,
+  "vizibilitate": "public",
+  "ultima_rulare": "2026-11-16 05:35:37",
+  "urmatorul_run_ts": 1794810937.6316113
+}

@@ -1,0 +1,14 @@
+{
+  "capitol_activ": "cap_story_1",
+  "capitole": {
+    "cap_story_1": {
+      "id": "cap_story_1",
+      "nume": "Forest Bears & Friends",
+      "descriere_tema": "Animated stories for children about two friendly bears exploring the forest, learning life lessons, the alphabet, and nature secrets through fun dialogues",
+      "personaje_si_lume": "Barnaby (a big friendly brown bear with a deep warm voice) and Pip (a curious little bear cub), living in a lush animated forest with talking animals",
+      "paleta_culori": "Enchanted Forest & Nature (Lush Green, Warm Wood, Sunlit Gold)",
+      "creat_la": "2026-11-16 16:43",
+      "episoade": []
+    }
+  }
+}
